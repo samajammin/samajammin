@@ -46,7 +46,7 @@ html {
 
 body {
   font-family: 'Roboto Mono', monospace;
-  background: #f9f9ff;
+  background: #f3f5f9;
   color: #121921;
   position: relative;
 }
@@ -95,7 +95,8 @@ body {
 }
 @media screen and (min-width: 880px) {
   .site-wrapper {
-    width: 700px;
+    /* width: 700px; */
+    width: 680px;
   }
 }
 
